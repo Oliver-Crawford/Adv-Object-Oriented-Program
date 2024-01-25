@@ -10,6 +10,7 @@ namespace Adv_Object_Oriented_Program
     {
         static void Main(string[] args)
         {
+            Console.Write("TEST");
         }
     }
 }
